@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>👋 Hi, I'm Daniel Pitthan</h1>
-  <h3>Senior Software Engineer | Technical Writer | Educator | Speaker</h3>
+  <h1>👋 Olá, sou Daniel Pitthan</h1>
+  <h3>Engenheiro de Software Sênior | Escritor Técnico | Educador | Palestrante</h3>
   
   <p>
-    <em>Crafting robust, scalable solutions across multiple programming languages and platforms</em>
+    <em>Construindo soluções robustas e escaláveis em diversas linguagens e plataformas</em>
   </p>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielpitthan)
@@ -13,15 +13,15 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre Mim
 
-I'm a **Senior Software Engineer** with extensive experience in building enterprise-grade applications and leading development teams. My journey in software development spans multiple programming languages, frameworks, and paradigms. I'm passionate about:
+Sou um **Engenheiro de Software Sênior** com ampla experiência na construção de aplicações de nível empresarial e liderança de equipes de desenvolvimento. Minha trajetória na área de software envolve várias linguagens de programação e plataformas.
 
-- 💻 **Building scalable systems** that solve real-world problems
-- ✍️ **Technical writing** to share knowledge and best practices
-- 🎓 **Teaching and mentoring** the next generation of developers
-- 🎤 **Public speaking** at conferences and tech meetups
-- 🌐 **Open-source contributions** to give back to the community
+- 💻 **Desenvolvendo sistemas escaláveis** que resolvem problemas reais
+- ✍️ **Escrita técnica** para compartilhar conhecimento e melhores práticas
+- 🎓 **Ensinando e mentoreando** a próxima geração de desenvolvedores
+- 🎤 **Palestras públicas** em conferências e meetups de tecnologia
+- 🌐 **Contribuindo para open-source** para retribuir à comunidade
 
 ---
 
@@ -51,7 +51,6 @@ I'm a **Senior Software Engineer** with extensive experience in building enterpr
 
 ### Ferramentas & Tecnologias
 
-### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -60,89 +59,88 @@ I'm a **Senior Software Engineer** with extensive experience in building enterpr
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experiência Profissional
 
 ```yaml
-Role: Senior Software Engineer & Technical Lead
-Expertise:
-  - Full-stack development with microservices architecture
-  - System design and scalable infrastructure
-  - Team leadership and agile methodologies
-  - Code review and quality assurance
-  - Performance optimization and security best practices
+Cargo: Engenheiro de Software Sênior & Líder Técnico
+Especialidades:
+  - Desenvolvimento full-stack com arquitetura de microsserviços
+  - Design de sistemas e infraestrutura escalável
+  - Liderança de equipes e metodologias ágeis
+  - Revisão de código e garantia de qualidade
+  - Otimização de performance e práticas de segurança
   
-Key Achievements:
-  - Led development teams of 5-10 engineers
-  - Architected and deployed cloud-native applications serving millions of users
-  - Reduced system latency by 60% through optimization
-  - Mentored 20+ junior developers
-  - Established CI/CD pipelines reducing deployment time by 80%
+Principais Conquistas:
+  - Liderei equipes de desenvolvimento com 5-10 analistas de sistemas
+  - Reduzi a latência do sistema em 60% através de otimizações
+  - Mentorei mais de 20 desenvolvedores iniciantes
+  - Implementei pipelines CI/CD, reduzindo em 80% o tempo de deploy
 ```
 
 ---
 
-## ✍️ Technical Writing
+## ✍️ Escrita Técnica
 
-I'm passionate about sharing knowledge through technical content:
+Sou apaixonado por compartilhar conhecimento através de conteúdo técnico:
 
-- 📝 **Blog Posts**: Regular articles on software architecture, best practices, and emerging technologies
-- 📚 **Documentation**: Comprehensive guides for open-source projects and internal tools
-- 🎯 **Tutorials**: Step-by-step guides for developers at all levels
-- 📖 **Technical Reviews**: Contributing to industry publications and developer communities
+- 📝 **Posts no blog**: Artigos regulares sobre arquitetura de software, melhores práticas e tecnologias emergentes
+- 📚 **Documentação**: Guias completos para projetos open-source e ferramentas internas
+- 🎯 **Tutoriais**: Guias passo a passo para desenvolvedores de todos os níveis
+- 📖 **Revisões técnicas**: Contribuições para publicações da indústria e comunidades de desenvolvedores
 
-**Topics I Write About:**
-- Software Architecture & Design Patterns
-- Cloud-Native Development
-- Microservices & Distributed Systems
-- DevOps & CI/CD Best Practices
-- Programming Language Comparisons
-- Career Development for Engineers
-
----
-
-## 🎓 Education & Teaching
-
-Committed to nurturing the next generation of developers:
-
-- 👨‍🏫 **Mentorship**: One-on-one mentoring for junior and mid-level developers
-- 🎥 **Workshops**: Conducting technical workshops on various programming topics
-- 📺 **Online Courses**: Creating educational content for developer platforms
-- 🏫 **Guest Lectures**: Speaking at universities and bootcamps
-- 💡 **Code Reviews**: Providing detailed feedback to help developers grow
-
-**Teaching Specialties:**
-- Object-Oriented Programming & SOLID Principles
-- Web Development (Frontend & Backend)
-- Database Design & Optimization
-- Cloud Computing & Containerization
-- Agile Methodologies & Best Practices
+**Tópicos sobre os quais escrevo:**
+- Arquitetura de Software & Design Patterns
+- Desenvolvimento Cloud-Native
+- Microsserviços & Sistemas Distribuídos
+- DevOps & Melhores Práticas de CI/CD
+- Comparação de Linguagens de Programação
+- Desenvolvimento de Carreira para Engenheiros
 
 ---
 
-## 🎤 Speaking Engagements
+## 🎓 Educação & Ensino
 
-Sharing insights and experiences with the tech community:
+Comprometido com o desenvolvimento da próxima geração de desenvolvedores:
 
-- 🎪 **Tech Conferences**: Presenting at national and international conferences
-- 🏢 **Meetups**: Regular speaker at local developer meetups
-- 🎙️ **Podcasts**: Guest appearances on software engineering podcasts
-- 💬 **Webinars**: Hosting online sessions on various technical topics
-- 🌐 **Panel Discussions**: Participating in industry panels and roundtables
+- 👨‍🏫 **Mentoria**: Mentorias individuais para desenvolvedores iniciantes e de nível intermediário
+- 🎥 **Workshops**: Conduzindo workshops técnicos sobre diversos temas de programação
+- 📺 **Cursos online**: Criando conteúdo educacional para plataformas de desenvolvedores
+- 🏫 **Palestras**: Apresentações em universidades e bootcamps
+- 💡 **Revisão de código**: Feedback detalhado para ajudar os desenvolvedores a evoluírem
 
-**Recent Topics:**
-- "Building Resilient Microservices at Scale"
-- "The Polyglot Developer: Mastering Multiple Languages"
-- "From Code to Production: Modern DevOps Practices"
-- "Effective Technical Leadership in Agile Teams"
-- "The Future of Software Architecture"
+**Especialidades de ensino:**
+- Programação Orientada a Objetos & Princípios SOLID
+- Desenvolvimento Web (Frontend & Backend)
+- Design e Otimização de Bancos de Dados
+- Computação em Nuvem & Containerização
+- Metodologias Ágeis & Melhores Práticas
 
 ---
 
-## 📊 GitHub Statistics
+## 🎤 Palestras e Eventos
+
+Compartilhando ideias e experiências com a comunidade de tecnologia:
+
+- 🎪 **Conferências Tech**: Apresentações em conferências nacionais e internacionais
+- 🏢 **Meetups**: Palestrante regular em encontros locais de desenvolvedores
+- 🎙️ **Podcasts**: Participações como convidado em podcasts de engenharia de software
+- 💬 **Webinars**: Sessões online sobre diversos temas técnicos
+- 🌐 **Painéis**: Participação em discussões e mesas redondas do setor
+
+**Temas Recentes:**
+- "Construindo Microsserviços Resilientes em Alta Escala"
+- "O Desenvolvedor Poliglota: Dominando Múltiplas Linguagens"
+- "Do Código à Produção: Práticas DevOps Modernas"
+- "Liderança Técnica Eficaz em Times Ágeis"
+- "O Futuro da Arquitetura de Software"
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielPitthan&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Daniel's GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPitthan&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielPitthan&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Daniel" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPitthan&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Principais Linguagens" height="170"/>
 </div>
 
 <div align="center">
@@ -151,39 +149,37 @@ Sharing insights and experiences with the tech community:
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Projetos em Destaque
 
-Here are some of my notable contributions:
+Aqui estão algumas de minhas contribuições notáveis:
 
 ```javascript
-const featuredProjects = {
-  enterprise: "Scalable e-commerce platform serving 1M+ daily users",
-  openSource: "Contributor to popular frameworks and libraries",
-  tools: "Developer productivity tools used by teams worldwide",
-  education: "Learning platforms helping thousands of students",
-  innovation: "AI/ML integrations for business automation"
+const projetosEmDestaque = {
+  empresarial: "Plataforma de e-commerce escalável atendendo mais de 1M usuários diários",
+  openSource: "Contribuidor para frameworks e bibliotecas populares",
+  ferramentas: "Ferramentas de produtividade usadas por equipes globalmente",
+  educacional: "Plataformas de aprendizado que impactam milhares de estudantes",
+  inovação: "Integrações de IA/ML para automação de negócios"
 };
 ```
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Vamos nos conectar!
 
-I'm always interested in:
-- 🔗 **Collaboration** on innovative open-source projects
-- 💼 **Consulting** on architecture and technical strategy
-- 🎓 **Mentoring** aspiring developers
-- 🎤 **Speaking** opportunities at conferences and events
-- ✍️ **Technical writing** collaborations
+Tenho interesse em:
+- 🔗 **Colaborar** em projetos open-source inovadores
+- 💼 **Consutoria** em arquitetura e estratégia técnica
+- 🎓 **Mentoria** para desenvolvedores aspirantes
+- 🎤 **Oportunidades de palestras** em conferências e eventos
+- ✍️ **Escrita técnica** em projetos colaborativos
 
 <div align="center">
   
-### 📫 Reach Out:
+### 📫 Contato:
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/danielpitthan)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/danielpitthan)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:daniel.pitthan@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://danielpitthan.dev)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:daniel@azsistemas.tech)
 
 </div>
 
@@ -192,7 +188,7 @@ I'm always interested in:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=DanielPitthan&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   
-  <p><em>"Code is like humor. When you have to explain it, it's bad." - Cory House</em></p>
+  <p><em>"Código é como humor. Se você precisa explicar, é porque está ruim." - Cory House</em></p>
   
-  ⭐️ From [DanielPitthan](https://github.com/DanielPitthan)
+  ⭐️ De [DanielPitthan](https://github.com/DanielPitthan)
 </div>
