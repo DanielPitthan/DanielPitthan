@@ -134,20 +134,6 @@ Compartilhando ideias e experiências com a comunidade de tecnologia:
 - "Liderança Técnica Eficaz em Times Ágeis"
 - "O Futuro da Arquitetura de Software"
 
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielPitthan&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Daniel" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPitthan&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Principais Linguagens" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielPitthan&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
 
 ## 🌟 Projetos em Destaque
 
